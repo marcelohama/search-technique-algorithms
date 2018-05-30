@@ -1,0 +1,4 @@
+AL - 138984
+H1 - 3945 (com tratamento de looping)
+H2 - 
+HX - 343,+20k,2025,2842,590 (sem tratamento de looping)
